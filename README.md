@@ -2,7 +2,7 @@
 
 ### Backend Engineer | Efficiency Enthusiast | Leeds, UK
 
-Straight-shooting backend dev based in Leeds. I like my code clean, my stout dry, and my front-end drama non-existent. I lean heavily on pragmatism and speed. If it ain’t broke, I'll probably still find a way to optimize it.
+Straight-shooting backend dev based in Leeds. I like my code clean, my stout dry, and my front-end drama non-existent. I lean heavily on pragmatism and speed. If it ain’t broke, I'll probably still find a way to optimize it. This is my new GitHub profile for side-projects.
 
 ---
 
