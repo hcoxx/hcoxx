@@ -4,11 +4,7 @@
 
 Straight-shooting backend dev based in Leeds. I like my code clean, my stout dry, and my front-end drama non-existent. I lean heavily on pragmatism and speed. If it ain’t broke, I'll probably still find a way to optimize it. This is my new GitHub profile for side-projects.
 
----
-
 ## 🛠️ Tech Stack & Expertise
-
-I specialize in building and maintaining robust, high-performance distributed systems.
 
 | Category | Primary Tools | Expertise & Focus |
 | :--- | :--- | :--- |
